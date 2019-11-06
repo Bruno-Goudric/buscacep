@@ -1,2 +1,4 @@
-# Sistema de Busca de Cep com Axios e API VIACEP - Guia de Estudos
+# Sistema de Busca de Cep
+
+Uso do Axios + API da ViaCep
 
